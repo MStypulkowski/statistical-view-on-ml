@@ -14,3 +14,7 @@ If you have any questions or need some help with projects, you can reach me at m
 ## Announcements and schedule
 * 15.10 - Logistic regression and neural networks
 * 22.10 - PyTorch tutorial (**please bring your laptops**)
+* 29.10 - Lecture by prof. Bogdan
+* 5.11 - Autoencoders
+* 12.11 - Variational Autoencoders
+* 19.11 - ...
