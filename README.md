@@ -1,7 +1,7 @@
 # Statistical view on machine learning
 ## Seminar, winter semester 2019/2020
-In this repo you will find all of the materials presented during the classes. I will post students' work here as well. \
-If you have any questions or need some help with projects, you can reach me at michal.stypulkowski@tooploox.com.
+In this repo you will find all of the materials presented during the classes.\
+If you have any questions or need some help with projects, you can reach me via USOS.
 
 ## Credit rules
 1. 4 absences are permitted.
